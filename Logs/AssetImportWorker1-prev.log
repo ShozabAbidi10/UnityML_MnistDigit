@@ -1,0 +1,205 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.35f1 (18e4db7a9996) revision 1631451'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Education' Language: 'en' Physical Memory: 8073 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.35f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/OneDrive - unige.it/Shozab/MSc/Thesis/HoloLens/Projects/Mnist_Unity_ML_Project
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+60651
+Successfully changed project path to: D:/OneDrive - unige.it/Shozab/MSc/Thesis/HoloLens/Projects/Mnist_Unity_ML_Project
+D:/OneDrive - unige.it/Shozab/MSc/Thesis/HoloLens/Projects/Mnist_Unity_ML_Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 435.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.35f1 (18e4db7a9996)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/OneDrive - unige.it/Shozab/MSc/Thesis/HoloLens/Projects/Mnist_Unity_ML_Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     4036 MB
+    Driver:   27.20.100.9171
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56124
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011486 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 56.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.759 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2760ms)
+		BeginReloadAssembly (477ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (7ms)
+		EndReloadAssembly (1851ms)
+			LoadAssemblies (466ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1019ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (280ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (56ms)
+				BeforeProcessingInitializeOnLoad (27ms)
+				ProcessInitializeOnLoadAttributes (140ms)
+				ProcessInitializeOnLoadMethodAttributes (49ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 230.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.517 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6519ms)
+		BeginReloadAssembly (225ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (6113ms)
+			LoadAssemblies (430ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1751ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (345ms)
+			SetupLoadedEditorAssemblies (2837ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (231ms)
+				BeforeProcessingInitializeOnLoad (405ms)
+				ProcessInitializeOnLoadAttributes (2078ms)
+				ProcessInitializeOnLoadMethodAttributes (73ms)
+				AfterProcessingInitializeOnLoad (29ms)
+				EditorAssembliesLoaded (3ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.25 seconds
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1910 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.6 MB.
+System memory in use after: 94.7 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 11.659200 ms (FindLiveObjects: 0.306700 ms CreateObjectMapping: 0.520600 ms MarkObjects: 10.371400 ms  DeleteObjects: 0.458700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scripts
+  artifactKey: Guid(5aa259b52ed51574eb7f088ad31d0d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(5aa259b52ed51574eb7f088ad31d0d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9462dab8be885e87434e34cacaea5c') in 0.051134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.443621 seconds.
+  path: Assets/Scripts/ModelInference
+  artifactKey: Guid(8dc6c8ddb225dd64c9966c244f3f0e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ModelInference using Guid(8dc6c8ddb225dd64c9966c244f3f0e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9c636ad2727d2181a480fde7665a24') in 0.035518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.999763 seconds.
+  path: Assets/Scripts/ModelInference.cs
+  artifactKey: Guid(75b682adb1a399e47a2d09c6f8233cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ModelInference.cs using Guid(75b682adb1a399e47a2d09c6f8233cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06d2c2a106d0c0e9c2ed82e2d7138fd6') in 1.005641 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006810 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.023 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6024ms)
+		BeginReloadAssembly (220ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (62ms)
+		EndReloadAssembly (5653ms)
+			LoadAssemblies (309ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1868ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (235ms)
+			SetupLoadedEditorAssemblies (2441ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (24ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (506ms)
+				ProcessInitializeOnLoadAttributes (1773ms)
+				ProcessInitializeOnLoadMethodAttributes (69ms)
+				AfterProcessingInitializeOnLoad (59ms)
+				EditorAssembliesLoaded (4ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1905 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.5 MB.
+System memory in use after: 94.6 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 16.718000 ms (FindLiveObjects: 0.333200 ms CreateObjectMapping: 0.174000 ms MarkObjects: 16.166900 ms  DeleteObjects: 0.041700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
