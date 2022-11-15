@@ -1,1 +1,0 @@
-# UnityML_MnistDigit
